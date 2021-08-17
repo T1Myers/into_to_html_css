@@ -1,0 +1,15 @@
+h3 {
+    color:crimson;
+    font-size: 56px; 
+ }
+
+ li{
+     list-style: none;
+     display: inline;
+ }
+ span{
+    border: 2px solid black;
+    margin: 100px;
+    padding: 40px;
+    background-color: blueviolet
+ }
